@@ -1,0 +1,3 @@
+x=[1,5,7,9]
+y=max(x)
+print("largest num in this list is:",y)
