@@ -1,0 +1,6 @@
+X=987
+Y=9
+Z=67.8
+XYZ=X+Y+Z
+print("value=",XYZ)
+print("Data type=", type (XYZ))
