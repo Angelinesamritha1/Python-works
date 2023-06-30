@@ -1,0 +1,5 @@
+str1="itachi"
+str2="itachi"
+str3="naruto"
+print(str1==str2)
+print(str1==str3)|
