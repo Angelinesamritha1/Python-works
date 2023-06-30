@@ -1,0 +1,4 @@
+data={"hero":"naruto", "heroin":"hinata"} 2 print(data)
+print(data)
+data.update({"friend":"sasukae"}
+print(data)
