@@ -1,0 +1,4 @@
+number=[8,98,76,34]
+print("number:", number)
+number.append(65)
+print("numbers: ", number)]
