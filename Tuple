@@ -1,0 +1,6 @@
+tuple=(1,2,3,4,"xy", "yz",5,6,7,8,)
+print(tuple)
+c=tuple [3]
+print("first 4th element of tuple:",c)
+d=tuple[-4] 
+print(" 4th element last of a tuple:",d)
