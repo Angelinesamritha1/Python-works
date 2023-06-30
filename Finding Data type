@@ -1,0 +1,2 @@
+str1=the problem?
+print(type.str1)
