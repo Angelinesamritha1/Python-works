@@ -1,0 +1,5 @@
+A = int Cinput ("Enter any number:"))
+if = (A%2==0): 
+print ("It is a even number") 
+else:
+print ("It is a odd number")
