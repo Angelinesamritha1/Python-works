@@ -1,0 +1,4 @@
+Tuple=(8,9,6,2,8,4,3,)
+print(Tuple)
+a=Tuple.count(8)
+print("count of number 8:",a)
