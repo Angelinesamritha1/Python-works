@@ -1,0 +1,3 @@
+dict={"xy":7,"yz":9.0,"zx":10}
+sum =(sum(dict.values()))
+print("sum of dict values=", sum)|
