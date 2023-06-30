@@ -1,0 +1,3 @@
+string="kakashi"
+for x in string:
+print(x)
