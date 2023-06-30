@@ -1,0 +1,12 @@
+a=int(input("Enter first number:"))
+b=int(input("Enter second number:"))
+Additon=a+b
+Subraction-a-b
+Multiplication=a*b
+Division=a/b
+Divisions=a//b
+print("a+b=", Additon)
+print("a-b=", Subraction)
+print("a*b=", Multiplication)
+print("a/b=",Division)
+print("a//b=",Divisions)
