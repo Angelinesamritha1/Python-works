@@ -1,0 +1,4 @@
+kilometre float (input("Enter kilometre: "))
+a = 0.621371
+b = kilometre * a
+print (b)
